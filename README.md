@@ -1,16 +1,13 @@
 # anywhere
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Once this project has been downloaded without errors, run with any of the below command
 
-A few resources to get you started if this is your first Flutter project:
+flutter run -t lib/main.dart --dart-define-from-file=simpsonsviewer.config.json --flavor=simpsonsviewer
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+OR
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run -t lib/main.dart --dart-define-from-file=wireviewer.config.json --flavor=wireviewer
