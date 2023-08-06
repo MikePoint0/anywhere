@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b95ac33-ddd8-4a90-8231-86fa5a64afd0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/ios" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ios" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TbSUZ7MMPHS9yrXKklWbPGlBiW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "ToolWindowResource Manager.ShowToolbar": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "/Users/christopher.adepoju-conde/StudioProjects/anywhere/test",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/lib/screens/details" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/pngs" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.sample" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.Simpsons Viewer">
+    <configuration name="Simpsons Viewer" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="additionalArgs" value="-t lib/main.dart --dart-define-from-file=simpsonsviewer.config.json --flavor=simpsonsviewer" />
+      <option name="attachArgs" value="-v" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Wire Viewer" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="additionalArgs" value="-t lib/main.dart --dart-define-from-file=wireviewer.config.json --flavor=wireviewer" />
+      <option name="attachArgs" value="-v" />
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="renders DetailsScreen properly" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="renders DetailsScreen properly" />
+      <option name="testFile" value="$PROJECT_DIR$/test/details_page_screen_test.dart" />
+      <option name="useRegexp" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="renders HomeScreen properly" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="renders HomeScreen properly" />
+      <option name="testFile" value="$PROJECT_DIR$/test/home_page_screen_test.dart" />
+      <option name="useRegexp" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in home_page_screen_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/home_page_screen_test.dart" />
+      <option name="useRegexp" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter.Simpsons Viewer" />
+      <item itemvalue="Flutter.Wire Viewer" />
+      <item itemvalue="Flutter Test.renders DetailsScreen properly" />
+      <item itemvalue="Flutter Test.renders HomeScreen properly" />
+      <item itemvalue="Flutter Test.tests in home_page_screen_test.dart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.renders DetailsScreen properly" />
+        <item itemvalue="Flutter Test.tests in home_page_screen_test.dart" />
+        <item itemvalue="Flutter Test.renders HomeScreen properly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b95ac33-ddd8-4a90-8231-86fa5a64afd0" name="Changes" comment="" />
+      <created>1691310309573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691310309573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/ios" />
+    </ignored-roots>
+  </component>
+</project>

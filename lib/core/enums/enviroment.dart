@@ -1,0 +1,1 @@
+enum Environment { simpsonsviewer, wireviewer }

@@ -1,0 +1,5 @@
+
+
+fetchRemoteData() {
+  //serviceLocator<UserCubit>().getNews();
+}

@@ -1,0 +1,5 @@
+{
+    "env": "wireviewer",
+    "url": "http://api.duckduckgo.com/?q=the+wire+characters&format=json",
+    "imageUrl": "https://duckduckgo.com/"
+}

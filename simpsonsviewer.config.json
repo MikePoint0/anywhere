@@ -1,0 +1,5 @@
+{
+    "env": "simpsonsviewer",
+    "url": "http://api.duckduckgo.com/?q=simpsons+characters&format=json",
+    "imageUrl": "https://duckduckgo.com/"
+}
